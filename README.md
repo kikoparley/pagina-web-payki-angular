@@ -7,7 +7,7 @@ tambien que la pagina sirva de embudo para llevar personas hacia las app
 
 
 
-[Pagina Web](www.prueba.com)
+[Pagina Web](https://webpayki22.firebaseapp.com/dist#/home)
 
 
 **Installing**
