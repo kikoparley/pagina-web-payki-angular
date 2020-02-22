@@ -7,7 +7,7 @@ tambien que la pagina sirva de embudo para llevar personas hacia las app
 
 
 
-[Pagina Web](https://webpayki22.firebaseapp.com/dist#/home)
+[Pagina Web](https://kikoparley.github.io/pagina-web-payki-angular/#/home)
 
 
 **Installing**
