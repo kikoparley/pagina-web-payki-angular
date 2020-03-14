@@ -46,7 +46,7 @@ $indigo: #5603ad !default;
 $purple: #8965e0 !default;
 $pink: #f3a4b5 !default;
 $red: #f5365c !default;
-$orange: #fb6340 !default;
+$orange: #FF220C !default;
 $yellow: #ffd600 !default;
 $green: #2dce89 !default;
 $teal: #11cdef !default;
@@ -92,24 +92,24 @@ $colors: map-merge(
 );
 
 $default-color-opacity: rgba(182, 182, 182, 0.6) !default;
-$orange-color: #f96332 !default;
+$orange-color: #FF220C !default;
 
 $default: #ffffff !default;
-$primary: #FB6932 !default;
+$primary: #F71735 !default;
 $secondary: #f4f5f7 !default;
 $success: #00f2c3 !default;
 $info: #1d8cf8 !default;
 $warning: #ff8d72 !default;
 $danger: #1832fb !default;
-$black: #222a42 !default;
+$black: #050505 !default;
 
 // gradient
 $default-states: #263148 !default;
-$primary-states: #FB6932 !default;
+$primary-states: #FF220C !default;
 $success-states: #0098f0 !default;
 $info-states: #3358f4 !default;
 $warning-states: #ff6491 !default;
-$danger-states: #FB6932 !default;
+$danger-states: #F71735 !default;
 $black-states: #1d253b !default;
 
 $background-black: #171941 !default;
