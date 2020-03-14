@@ -1,5 +1,5 @@
 .card {
-  background: $card-black-background;
+  background: #1B2F33;
   border: 0;
   position: relative;
   width: 100%;
@@ -11,7 +11,7 @@
   }
 
   .card-title {
-    margin-bottom: 0.75rem;
+    margin-bottom: 1px;
   }
 
   .card-body {
@@ -37,7 +37,8 @@
 
   .card-header {
     &:not([data-background-color]) {
-      background-color: transparent;
+      background-color:#FF220C;
+      background-image: linear-gradient(to left, #f71735, #fa182d, #fc1a25, #fe1e1a, #ff220c);
     }
     padding: 15px 15px 0;
     border: 0;
